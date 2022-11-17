@@ -5,7 +5,8 @@ import math
 os.system('clear')
 
 global mainWordArr
-mainWordArr = ['apple', 'banana', 'coconut', 'dolphin', 'elephant', 'fish']
+mainWordArr = ['apple', 'banana', 'coconut', 'dolphin', 'elephant', 'fish', 'pear', 'mango', 'apple', 'banana', 'apricot', 'pineapple','cantaloupe', 'grapefruit','jackfruit','papaya', 'hawkeye', 'robin', 'Galactus', 'thor', 'mystique', 'superman', 'deadpool', 'vision', 'sandman', 'aquaman', 'batman', 'ironman', 'bruce', 'wayne', 'tony', 'stark', 'captain', 'america', 'steve', 'rogers', 'agent', 'rescue', 'pepper', 'pot', 'cat', 'woman', 'war', 'machine', 'spider', 'man', 'falcon', 'winter', 'soldier', 'scarlet', 'witch', 'vision', 'doctor', 'strange', 'nepal', 'mustang', 'manang']
+
 
 def fillWordGenerate():
     global word
